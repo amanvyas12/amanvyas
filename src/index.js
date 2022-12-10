@@ -12,5 +12,5 @@ root.render(
   </React.StrictMode>
 );
 serivceWorkerRegistration.register();
-reportWebVitals(); 
+reportWebVitals();
  

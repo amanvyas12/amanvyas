@@ -5,7 +5,7 @@ import IMG2 from '../../assests/portfolio2.png'
 import IMG3 from '../../assests/portfolio3.png'
 import IMG4 from '../../assests/portfolio4.jpg'
 import IMG5 from '../../assests/portfolio5.png'
-import IMG6 from '../../assests/portfolio6.jpg'
+// import IMG6 from '../../assests/portfolio6.jpg'
 
 
 const Portfolio = () => {
