@@ -3,13 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import * as serivceWorkerRegistration from './serviceWorkerRegistration';
+import * as serivceWorkerRegistration from './serviceWorkerRegistration'; 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <App />  
   </React.StrictMode>
 );
 serivceWorkerRegistration.register();
 reportWebVitals(); 
+ 

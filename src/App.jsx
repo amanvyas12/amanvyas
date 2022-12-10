@@ -10,7 +10,7 @@ import Contacts from "./components/contact/Contact"
 import Footer from './components/footer/Footer'
 
 
-const App = () => {
+const App = () => { 
   return (
     <>
       <Header />
