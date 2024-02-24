@@ -5,7 +5,7 @@ import ME from '../../assests/a22.png'
 import HeaderSocials from './HeaderSocials';
 
  
-const Header = () => {
+const Header = () => { 
   return (
     <header>
       <div className="container header__container">
