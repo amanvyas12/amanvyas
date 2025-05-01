@@ -39,19 +39,19 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>aman.vyas.info@gmail.com</h5>
-            <a href="mailto:aman.vyas.info@gmail.com" target='_blank'>Send a message</a>
+            <a href="mailto:aman.vyas.info@gmail.com" target='_blank' rel="noreferrer">Send a message</a>
           </article>
           <article className='contact__option'>
             <BsInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5>Aman vyas</h5>
-            <a href="https://www.instagram.com/_amanvyas/" target='_blank'>Send a message</a>
+            <a href="https://www.instagram.com/_amanvyas/" target='_blank' rel="noreferrer">Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+91-1234567890</h5>
-            <a href="https://api.whatsapp.com/send?phone=+917566562366" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+917566562366" target='_blank' rel="noreferrer">Send a message</a>
           </article>
         </div>
         {/* End of contact section */}
