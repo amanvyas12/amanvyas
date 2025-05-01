@@ -92,6 +92,14 @@ const Services = () => {
                 <BiCheck className='service__list-icon'/>
                 <p>Code maintenance</p>
               </li>
+              <li>
+                <BiCheck className='service__list-icon'/>
+                <p>Deployement for Project</p>
+              </li>
+              <li>
+                <BiCheck className='service__list-icon'/>
+                <p>CI/CD Pipeline Integration</p>
+              </li>
           </ul>
         </article>
         {/* end of content creation */}

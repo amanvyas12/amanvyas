@@ -61,6 +61,13 @@ const Experince = () => {
                   <small className='text-light'>Experinced</small>
                 </div>
               </article>
+              <article className='experince__details'>
+                <BsPatchCheckFill className='experince__details-icon'/>
+                <div>
+                  <h4>Vite</h4>
+                  <small className='text-light'>Experinced</small>
+                </div>
+              </article>
             </div>
         </div>
         <div className="experince__backend">
@@ -77,7 +84,7 @@ const Experince = () => {
                 <BsPatchCheckFill className='experince__details-icon'/>
                 <div>
                   <h4>Node JS</h4>
-                  <small className='text-light'>Basic</small>
+                  <small className='text-light'>Experinced</small>
                 </div>
               </article>
               <article className='experince__details'>
@@ -98,6 +105,13 @@ const Experince = () => {
                 <BsPatchCheckFill className='experince__details-icon'/>
                 <div>
                   <h4>MongoDB</h4>
+                  <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+              <article className='experince__details'>
+                <BsPatchCheckFill className='experince__details-icon'/>
+                <div>
+                  <h4>Electron</h4>
                   <small className='text-light'>Intermediate</small>
                 </div>
               </article>
