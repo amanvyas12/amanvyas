@@ -1,25 +1,24 @@
 {
   "files": {
     "main.css": "/amanvyas/static/css/main.2f909357.css",
-    "main.js": "/amanvyas/static/js/main.5ccd7788.js",
+    "main.js": "/amanvyas/static/js/main.d90dec62.js",
     "static/js/787.8c881bfb.chunk.js": "/amanvyas/static/js/787.8c881bfb.chunk.js",
     "static/media/a22.png": "/amanvyas/static/media/a22.ab7e33f9fae5f34fe321.png",
     "static/media/portfolio3.png": "/amanvyas/static/media/portfolio3.941917627ad706ece19d.png",
     "static/media/a1.jpg": "/amanvyas/static/media/a1.97d493d4931d0cc9ae1c.jpg",
     "static/media/portfolio1.png": "/amanvyas/static/media/portfolio1.e5ff03b30189a4c0ce53.png",
     "static/media/portfolio5.png": "/amanvyas/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Resume_Amanvyas_.pdf": "/amanvyas/static/media/Resume_Amanvyas_.60882ef5900f26d805ce.pdf",
     "static/media/portfolio2.png": "/amanvyas/static/media/portfolio2.139851b9291252cea6a1.png",
-    "static/media/Resume_Aman_vyas.pdf": "/amanvyas/static/media/Resume_Aman_vyas.c4a4babafa9523d2c596.pdf",
-    "static/media/portfolio6.jpg": "/amanvyas/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio4.jpg": "/amanvyas/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/MTI.png": "/amanvyas/static/media/MTI.24e51a3f7396bcd4c4a7.png",
     "index.html": "/amanvyas/index.html",
     "main.2f909357.css.map": "/amanvyas/static/css/main.2f909357.css.map",
-    "main.5ccd7788.js.map": "/amanvyas/static/js/main.5ccd7788.js.map",
+    "main.d90dec62.js.map": "/amanvyas/static/js/main.d90dec62.js.map",
     "787.8c881bfb.chunk.js.map": "/amanvyas/static/js/787.8c881bfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f909357.css",
-    "static/js/main.5ccd7788.js"
+    "static/js/main.d90dec62.js"
   ]
 }
